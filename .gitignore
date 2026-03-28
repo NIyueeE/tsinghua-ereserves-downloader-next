@@ -1,0 +1,6 @@
+.claude
+.sisyphus
+.mcp.json
+node_modules
+package.json
+pnpm-lock.yaml
