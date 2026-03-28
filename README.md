@@ -47,6 +47,8 @@
 2. 将 `ereserves-lib.js` 的内容粘贴进去
 3. 按 `Ctrl + S` 保存
 
+或者通过[油叉地址](https://greasyfork.org/zh-CN/scripts/571537-tsinghua-ereserves-lib-downloader-next)下载
+
 ---
 
 ## 使用方法
