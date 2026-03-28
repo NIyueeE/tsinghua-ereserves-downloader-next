@@ -87,24 +87,6 @@ A: 点击下载中的取消按钮即可取消。
 - 不收集任何用户数据
 - 动态加载 jsPDF 库
 
-### 代码质量检查
-
-如需检查代码格式，可使用以下命令：
-
-```bash
-# ESLint 检查
-pnpm dlx eslint ereserves-lib.js
-
-# 或者使用 npx
-npx eslint ereserves-lib.js
-
-# Prettier 格式检查
-pnpm dlx prettier --check ereserves-lib.js
-
-# Prettier 自动格式化
-pnpm dlx prettier --write ereserves-lib.js
-```
-
 ---
 
 ## 许可证
